@@ -69,6 +69,8 @@ Same document as the [web generator](https://kleogeos.github.io/freelancer-tools
 rather script it (batch-generate acts from a billing system export, pipe JSON
 from another tool) than fill a form by hand.
 
+[akt-rabot-js](https://github.com/kleogeos/akt-rabot-js) — same output, `npx` instead of `pip`, no install.
+
 Part of the same family as
 [usdt-rub-cli](https://github.com/kleogeos/usdt-rub-cli) and the RU
 freelancer guides on the [Freelancer Toolbox](https://kleogeos.github.io/freelancer-tools/ru-kit.html?src=cli-akt) —
